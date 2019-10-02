@@ -6,10 +6,10 @@
 spring:
    profiles: dev    #开发环境
    application:
-      name:microservicecloud-config-dmm-dev
+      name: microservicecloud-config-dmm-dev
 ---
 spring:
    profiles: test   #测试环境
    application:
-      name:microservicecloud-config-dmm-test
-# utf-8 保存
+      name: microservicecloud-config-dmm-test
+# utf-8保存
